@@ -2,12 +2,19 @@
 
 ## ¿Qué hace esta app?
 Funcionalidades principales
+
 ✅ Entrada por consola
+
 ✅ Menú interactivo por consola
+
 ✅ Lógica con arreglos (String[])
+
 ✅ Búsqueda de datos dentro del arreglo
+
 ✅ Función separada para modularizar código
+
 ✅ Buen uso de estructuras básicas: if, while, for, Scanner
+
 ✅ Validaciones simples
 
 ## Tecnologías utilizadas
@@ -18,11 +25,17 @@ Funcionalidades principales
 - Arrays
 
 🧠 Lo que practiqué en este proyecto
+
 Crear un menú con múltiples opciones
+
 Trabajar con arrays dinámicos
+
 Capturar entradas del usuario con Scanner
+
 Comparar cadenas con .equals()
+
 Manejo básico de errores y entradas
+
 Separar la lógica en funciones reutilizables
 
 ## Cómo usarlo
